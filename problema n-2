@@ -1,0 +1,7 @@
+# Problemas
+Realizar un codigo que permita gestionar una lista de estudiantes(pueden ser de colegio, universidad) y se puedan añadir estudiantes con sus notas
+buscar el nombre del estudiante
+Este código muestra como gestionar una lista de estudiantes,
+permitiendo añadir estudiantes con sus notas, buscar por el nombre, modificar la nota de un estudiante, 
+listar los estudiantes ordenados alfabéticamente o por nota, y obtener la media de las notas.
+modificar la nota de un estudiante, listar los estudiantes ordenados alfabéticamente o por nota, y obtener la media de las notas.
